@@ -1,0 +1,6 @@
+﻿Microsserviços são como um framework de arquitetura, utilizados para que mudanças realizadas não corrompam toda uma aplicação.
+
+De forma geral a arquitetura monolítica todas as funções de um negócio estão implementadas em um único processo, na arquitetura de microsserviços diferente da monolítica cada serviço é desenvolvido em um conjunto de regras de negócio específico e é implementado de forma independente, ou seja ocorre a separação dos serviços, essa arquitetura tem como vantagem, a manutenção dos serviços mais estáveis, flexibilidade de tecnologia(poder trabalhar com mais de um banco de dados) e também facilidade de realizar alterações durante a produção.
+
+Existem três formas que os serviços podem se comunicar, que seriam elas a comunicação por HTTP, Mensagem ou Orientada a Eventos. 
+
