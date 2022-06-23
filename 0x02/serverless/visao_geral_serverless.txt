@@ -1,0 +1,7 @@
+﻿A Arquitetura Serverless é baseada na capacidade de implementar um software sem ter envolvimento com a infraestrutura, acaba automatizando todo o processo de criação, implementação e início de serviços sob determinada demanda, neste caso os usuários só precisariam preencher as funções requeridas. Os benefícios em usar essa arquitetura é de se beneficiar com custos operacionais, complexidade e tempo de execução mais baixos. 
+
+Function as a Service (FaaS) é um serviço de computação em nuvem, este serviço abstrai a questão de servidor e máquinas onde os seus programas rodam, é derivado do Serverless, onde vai delegar ao provedor de Computação em Nuvem para provisionar uma plataforma que permita o cliente de: desenvolver, rodar e gerenciar aplicações.
+
+Cloud Computing é de modo geral o fornecimento de serviços de computação, que incluem servidores, armazenamento, banco de dados, rede, software, análise e inteligência, pela nuvem (a internet), seus principais benefícios são custos mais baixos, a velocidade, escala global(dimensionamento elástico), produtividade, desempenho, confiabilidade e segurança.
+
+Na arquitetura monolítica tem-se uma aplicação com empacotamento de todos os componentes em uma única unidade, em microsserviços há uma aplicação fragmentada em diversos pacotes com propósitos individuais e específicos, em serverless há uma preocupação com servidores e com o gerenciamento dos mesmo, é também eliminada e o escalonamento é sob demanda.
